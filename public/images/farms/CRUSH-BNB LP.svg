@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229.5" height="216.5" viewBox="0 0 229.5 216.5">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.552" x2="1" y2="0.527" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7fdabc"/>
+      <stop offset="1" stop-color="#a848ed"/>
+    </linearGradient>
+  </defs>
+  <g id="CrushBNB" transform="translate(2972 -3135)">
+    <g id="Group_1096" data-name="Group 1096" transform="translate(-11477.499 -1972)">
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="91" cy="91" r="91" transform="translate(8550.499 5139)" stroke="#fff" stroke-width="5" fill="url(#linear-gradient)"/>
+      <g id="Artboard" transform="translate(8589.104 5160.646)">
+        <g id="_1" data-name="1" transform="translate(0 36.012)">
+          <g id="Group_1743" data-name="Group 1743">
+            <path id="Shape" d="M28.58,0H12.7V6.667H28.58v10H12.7V43.344H0v16.67H6.353v-10H12.7v10h9.526v6.67H28.58V50.012h12.7v10H34.93v6.67h6.352v-6.67H63.511v6.67h6.35v-6.67h-6.35v-10h12.7V66.685h6.352v-6.67h9.527v-10h6.349v10h6.352V43.344h-12.7V16.671H76.21v-10H92.089V0H76.21V6.667H69.86v10h-6.35v6.667H41.282V16.671H34.93v-10H28.58ZM69.84,30.012v6.668h6.35V30.012Zm-34.915,0h-6.35v6.668h6.35Z" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Binance-BNB-Icon2-Logo.wine" transform="translate(-2966.553 3140.447)">
+      <g id="Ellipse_41" data-name="Ellipse 41" transform="translate(-0.447 -0.447)" fill="#f0b90b" stroke="#fff" stroke-width="5">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="46.5" fill="none"/>
+      </g>
+      <path id="Path_15157" data-name="Path 15157" d="M28.8,45.117l-6.7,6.742L15.36,45.117,22.1,38.375ZM45.117,28.8,56.648,40.328l6.742-6.742L51.859,22.1,45.117,15.36,38.375,22.1,26.891,33.586l6.742,6.742Zm23.015,9.578-6.7,6.742,6.742,6.742,6.7-6.742ZM45.117,61.437,33.586,49.906l-6.7,6.742L38.422,68.178l6.7,6.7,6.742-6.742L63.389,56.6l-6.742-6.7Zm0-9.578,6.742-6.742-6.742-6.742-6.742,6.742Z" transform="translate(-1.324 -1.324)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

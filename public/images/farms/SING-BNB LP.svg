@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229.5" height="216.5" viewBox="0 0 229.5 216.5">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Эллипс_385" data-name="Эллипс 385" cx="88" cy="88" r="88" transform="translate(-3344 2616)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Прямоугольник_161" data-name="Прямоугольник 161" width="176" height="176" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="SingularBNB" transform="translate(2499 -2275)">
+    <circle id="Ellipse_37" data-name="Ellipse 37" cx="91" cy="91" r="91" transform="translate(-2454 2307)" fill="#fff" stroke="#fff" stroke-width="5"/>
+    <g id="Группа_масок_16" data-name="Группа масок 16" transform="translate(893 -306)" clip-path="url(#clip-path)">
+      <g id="SING_Symbol" transform="translate(-3344 2616)" clip-path="url(#clip-path-2)">
+        <path id="Контур_17014" data-name="Контур 17014" d="M88.085,176.17A88.085,88.085,0,1,0,0,88.085,88.086,88.086,0,0,0,88.085,176.17Z" fill="#fff"/>
+        <g id="Сгруппировать_1783" data-name="Сгруппировать 1783" transform="translate(-92.256 -51.119)">
+          <path id="Контур_17015" data-name="Контур 17015" d="M61.45,187.472A88.084,88.084,0,0,0,54.694,63.085,88.085,88.085,0,0,0-69.694,69.841a88.086,88.086,0,0,0,6.756,124.388A88.085,88.085,0,0,0,61.45,187.472Z" transform="translate(103.242 46.285)"/>
+          <path id="Контур_17016" data-name="Контур 17016" d="M100.142,195.54a117.446,117.446,0,1,0-165.85,9.008A117.446,117.446,0,0,0,100.142,195.54Z" transform="translate(104.735 51.158)" fill="rgba(0,0,0,0.4)"/>
+          <path id="Контур_17017" data-name="Контур 17017" d="M151.9,137.834a117.446,117.446,0,1,0-165.849,9.008A117.446,117.446,0,0,0,151.9,137.834Z" transform="translate(98.567 58.034)" fill="rgba(0,0,0,0.4)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Binance-BNB-Icon2-Logo.wine" transform="translate(-2493.553 2280.447)">
+      <g id="Эллипс_41" data-name="Эллипс 41" transform="translate(-0.447 -0.447)" fill="#f0b90b" stroke="#fff" stroke-width="5">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="46.5" fill="none"/>
+      </g>
+      <path id="Контур_15157" data-name="Контур 15157" d="M28.8,45.117l-6.7,6.742L15.36,45.117,22.1,38.375ZM45.117,28.8,56.648,40.328l6.742-6.742L51.859,22.1,45.117,15.36,38.375,22.1,26.891,33.586l6.742,6.742Zm23.015,9.578-6.7,6.742,6.742,6.742,6.7-6.742ZM45.117,61.437,33.586,49.906l-6.7,6.742L38.422,68.178l6.7,6.7,6.742-6.742L63.389,56.6l-6.742-6.7Zm0-9.578,6.742-6.742-6.742-6.742-6.742,6.742Z" transform="translate(-1.324 -1.324)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

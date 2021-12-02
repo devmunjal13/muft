@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229.5" height="216.5" viewBox="0 0 229.5 216.5">
+  <g id="USDTBUSD" transform="translate(1830 -3422)">
+    <g id="Group_1096" data-name="Group 1096" transform="translate(-10335.499 -1685)">
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="91" cy="91" r="91" transform="translate(8550.499 5139)" fill="#f0b90b" stroke="#fff" stroke-width="5"/>
+    </g>
+    <g id="Group_1692" data-name="Group 1692" transform="translate(135.016 674.587)">
+      <path id="Path" d="M632.2,207.1v21.891l18.5,8.269Z" transform="translate(-2548.222 2559.704)" fill="rgba(255,255,255,0.6)"/>
+      <path id="Path_1_" d="M479.3,207.1l-18.5,30.16,18.5-8.269Z" transform="translate(-2395.324 2559.704)" fill="#fff"/>
+      <path id="Path_2_" d="M632.2,529.141v14.875L650.713,518.4Z" transform="translate(-2548.222 2282.007)" fill="rgba(255,255,255,0.6)"/>
+      <path id="Path_3_" d="M479.3,544.015V529.141L460.8,518.4Z" transform="translate(-2395.324 2282.007)" fill="#fff"/>
+      <path id="Path_4_" d="M632.2,428.909l18.5-10.741L632.2,409.9Z" transform="translate(-2548.222 2378.795)" fill="rgba(255,255,255,0.2)"/>
+      <path id="Path_5_" d="M460.8,418.169l18.5,10.741V409.9Z" transform="translate(-2395.324 2378.795)" fill="rgba(255,255,255,0.6)"/>
+    </g>
+    <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(-1825 3427)" fill="#26a17b" stroke="#fff" stroke-width="5">
+      <circle cx="44" cy="44" r="44" stroke="none"/>
+      <circle cx="44" cy="44" r="46.5" fill="none"/>
+    </g>
+    <g id="Cjdowner-Cryptocurrency-Flat-Tether-USDT" transform="translate(-1819 3433)">
+      <path id="Path_15477" data-name="Path 15477" d="M34.084,30.683v0c-.263.019-1.618.1-4.643.1-2.415,0-4.114-.072-4.712-.1v.007C15.435,30.277,8.5,28.658,8.5,26.722s6.938-3.552,16.232-3.968v6.321c.607.043,2.348.146,4.753.146,2.885,0,4.332-.12,4.6-.143V22.758c9.276.414,16.2,2.032,16.2,3.964s-6.921,3.55-16.2,3.961m0-8.582V16.444H47.027V7.819H11.786v8.625H24.729V22.1C14.211,22.581,6.3,24.666,6.3,27.162s7.911,4.578,18.429,5.063V50.351h9.355V32.22c10.5-.483,18.393-2.565,18.393-5.059S44.586,22.586,34.084,22.1" transform="translate(8.761 10.873)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-1743.852 3495)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0)">
+        <path id="Path_15158" data-name="Path 15158" d="M94.8.71l12.353,12.649-31.1,31.1L63.7,32.107Z" transform="translate(-44.95 -0.71)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_15159" data-name="Path 15159" d="M113.551,63.71,125.9,76.359,76.053,126.21,63.7,113.857Z" transform="translate(-44.95 -44.96)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_15160" data-name="Path 15160" d="M13.053,126.71l12.353,12.649L13.053,151.712.7,139.359Z" transform="translate(-0.7 -89.21)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+        <path id="Path_15161" data-name="Path 15161" d="M176.551,126.71,188.9,139.359,139.053,189.21,126.7,176.857Z" transform="translate(-89.2 -89.21)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

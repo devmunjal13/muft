@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229.5" height="216.5" viewBox="0 0 229.5 216.5">
+  <g id="BNBBUSD" transform="translate(2653 -3135)">
+    <g id="Group_1096" data-name="Group 1096" transform="translate(-11158.499 -1972)">
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="91" cy="91" r="91" transform="translate(8550.499 5139)" fill="#f0b90b" stroke="#fff" stroke-width="5"/>
+      <path id="Path_15162" data-name="Path 15162" d="M38.593,66.81,27.017,78.466,15.36,66.81,27.017,55.153ZM66.81,38.593,86.746,58.529,98.4,46.873,78.466,27.017,66.81,15.36,55.153,27.017,35.3,46.873,46.953,58.529ZM106.6,55.153,95.026,66.81l11.657,11.657L118.259,66.81ZM66.81,95.026,46.873,75.09,35.3,86.746l19.937,19.937L66.81,118.259,78.466,106.6,98.4,86.666,86.746,75.09Zm0-16.56L78.466,66.81,66.81,55.153,55.153,66.81Z" transform="translate(8574.689 5163.19)" fill="#fff"/>
+    </g>
+    <g id="Group_1614" data-name="Group 1614" transform="translate(-102 270)">
+      <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(-2546 2870)" fill="#f0b90b" stroke="#fff" stroke-width="5">
+        <circle cx="44" cy="44" r="44" stroke="none"/>
+        <circle cx="44" cy="44" r="46.5" fill="none"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2" transform="translate(-2531.863 2884.048)">
+        <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+          <path id="Path_15158" data-name="Path 15158" d="M82.331.71l7.4,7.577L71.1,26.918l-7.4-7.4Z" transform="translate(-52.468 -0.71)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+          <path id="Path_15159" data-name="Path 15159" d="M93.563,63.71l7.4,7.577L71.1,101.15l-7.4-7.4Z" transform="translate(-52.468 -52.478)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+          <path id="Path_15160" data-name="Path 15160" d="M8.1,126.71l7.4,7.577-7.4,7.4-7.4-7.4Z" transform="translate(-0.7 -104.246)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+          <path id="Path_15161" data-name="Path 15161" d="M156.563,126.71l7.4,7.577L134.1,164.15l-7.4-7.4Z" transform="translate(-104.236 -104.246)" fill="#fff" stroke="#f0b90b" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
